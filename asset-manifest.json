@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SeanRussell-GitHub/static/css/main.328287ca.chunk.css",
+    "main.js": "/SeanRussell-GitHub/static/js/main.a4069de2.chunk.js",
+    "main.js.map": "/SeanRussell-GitHub/static/js/main.a4069de2.chunk.js.map",
+    "runtime-main.js": "/SeanRussell-GitHub/static/js/runtime-main.35708aa8.js",
+    "runtime-main.js.map": "/SeanRussell-GitHub/static/js/runtime-main.35708aa8.js.map",
+    "static/js/2.ab7c1700.chunk.js": "/SeanRussell-GitHub/static/js/2.ab7c1700.chunk.js",
+    "static/js/2.ab7c1700.chunk.js.map": "/SeanRussell-GitHub/static/js/2.ab7c1700.chunk.js.map",
+    "index.html": "/SeanRussell-GitHub/index.html",
+    "static/css/main.328287ca.chunk.css.map": "/SeanRussell-GitHub/static/css/main.328287ca.chunk.css.map",
+    "static/js/2.ab7c1700.chunk.js.LICENSE.txt": "/SeanRussell-GitHub/static/js/2.ab7c1700.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/SeanRussell-GitHub/static/media/pokemonThumb.d8395f1a.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35708aa8.js",
+    "static/js/2.ab7c1700.chunk.js",
+    "static/css/main.328287ca.chunk.css",
+    "static/js/main.a4069de2.chunk.js"
+  ]
+}
