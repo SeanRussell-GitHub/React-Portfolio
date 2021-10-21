@@ -23,7 +23,7 @@ I have created this version using React as an example of how useful it can be. I
 ## Mock-Up
 
 The following images shows the web page's appearance:
-![alt text](src\components\view\react-portfolio-snip.PNG)
+![alt text](https://github.com/SeanRussell-GitHub/React-Portfolio/blob/main/src/components/view/react-portfolio-snip.PNG)
 
 
 #
