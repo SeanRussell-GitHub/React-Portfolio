@@ -2,7 +2,7 @@ const Contact= () => {
     return (
 <div>
     <h1>Contact Me</h1>
-    <div id="contact" className="contact">
+    <div id="contact-me" className="contact">
         <h3>Methods:</h3>
         <ul>
            <li><a href="mailto:emailseanrussell@gmail.com?subject=Testing out mailto!">Email</a></li>
@@ -20,6 +20,9 @@ const Contact= () => {
            </li>
            <li>Cell phone: <span>(555)555-5555 ... leave a message or text </span></li>
         </ul>
+        </div>
+        <div className="return">
+        <a href="#body" className="return">return to top</a>
         </div>
   </div>
 );
