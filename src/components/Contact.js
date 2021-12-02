@@ -18,7 +18,7 @@ const Contact= () => {
                 <span >Resume on Indeed</span>
                 </a>
            </li>
-           <li>Cell phone: <span>(555)555-5555 ... leave a message or text </span></li>
+           <li>Cell phone: <span>(503)569-3233 ... leave a message or text </span></li>
         </ul>
         </div>
         <div className="return">
